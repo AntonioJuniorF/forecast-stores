@@ -34,6 +34,7 @@ Pode ajudar a evitar que o cientista de dados pare em uma etapa específica e pe
  
 Essa primeira parte do projeto está encarregada de tratar os dados, avaliá-los e criar o modelo de machine learning. Esse estudo foi dividido nas seguintes partes:
 * Tratamento dos dados: Nesta parte foi realizado o tratamento dos dados faltantes, outliers e unir os conjuntos Train e Test.Também será criado algumas variáveis para dar suporte nas análises que serão feitas.
+* Descrição dos dados: È visto como as vendas se relacionam com o tempo e qual é a relação de cada variável com os dados de Target.
  
 **Todas essas partes se encontram na pasta chamada Notebooks**
   
