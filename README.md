@@ -58,6 +58,7 @@ Essa primeira parte do projeto está encarregada de tratar os dados, avaliá-los
 * Descrição dos dados: É visto como as vendas se relacionam com o tempo e qual é a relação de cada variável com os dados de Target.
 * Parte 1 Modification dataset : Nesta parte será encontrado a melhor maneira de representar as variáveis discretas e selecionar as melhores variáveis para treinar o modelo.
 * Parte 2 Modification dataset : Continuação do notebook Parte 1 Modification dataset.
+* models: Tuning de divesos modelos de machine learning e a avaliação do melhor modelo para ser levado para deploy.
  
 **Todas essas partes se encontram na pasta chamada Notebooks**
   
