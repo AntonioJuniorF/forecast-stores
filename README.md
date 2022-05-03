@@ -81,9 +81,18 @@ Essas seções se encontram nos seguintes arquivo .py
 * teste_v2 : Testar a classe criada no arquivo Store_2 e treinar e salvar em disco o modelo de machine learning que foi levado para produção.
 * model_api_store: API criado atravez do flask para realizar o deploy do modelo.
 
-**Todos esses arquvios se encontram na pasta API, aqueles contem as classes para processar os dados estão no seguinte caminho \api\lojas.
+**Todos esses arquvios se encontram na pasta API, aqueles contem as classes para processar os dados estão no seguinte caminho \api\lojas.**
 
-Por último o arquivo utilizado para testa o API desenvovivdo se encontra no notebook Teste API e que esta na pasta notebook.
+# Resultados 
+
+### Análise de dados.
+
+* Os principais fatores que se destacaram nas analises de dados feitas foram que a venda é maior em determinado de dis especificos do mês conforme esta sendo mostrado na figura abaixo.
+
+<p align="center">
+    <img src="![imagem](https://github.com/AntonioJuniorF/forecast-stores/issues/1#issue-1224425232)
+" alt="Kitten" title="A cute kitten" width="430" height="430" />
+</p>
 
  
  
