@@ -1,6 +1,4 @@
-# Forecast-stores 
- 
-### Descrição.
+# Descrição do problema.
  
 A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada. E um dos desejos desta empresa é a previsão da venda futura de 6 semanas das suas 1115 lojas. Os dados disponíveis por ela contém as seguintes informações: 
  
@@ -20,12 +18,11 @@ A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os g
 * **Promo2Since[Year/Week] [S]** - describes the year and calendar week when the store started participating in Promo2
 * **PromoInterval [S]** - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
  
-### Objetivo.
+# Objetivo.
  
 Sendo assim, esse trabalho visa realizar a predição de vendas dessas lojas através de um modelo de machine learning e a criação de um api que retorne as previsões feitas por ele.  
  
- 
-### Metodologia
+# Metodologia
  
 Este projeto será baseado no processo padrão Cross-industry para mineração de dados (CRISP-DM). Uma ideia padrão sobre projeto de ciência de dados pode ser linear: preparação de dados, modelagem, avaliação e implantação. No entanto, quando usamos a metodologia CRISP-DM, um projeto de ciência de dados se torna uma forma circular. Mesmo quando termina em Deployment, o projeto pode ser reiniciado novamente pela Business Understanding. Como isso pode ajudar?
  
@@ -36,7 +33,7 @@ Este projeto será baseado no processo padrão Cross-industry para mineração d
  
 Pode ajudar a evitar que o cientista de dados pare em uma etapa específica e perca tempo com ela. Quando todo o projeto estiver concluído, o cientista de dados pode retornar à etapa inicial e fazer todas as etapas novamente. Portanto, o objetivo principal é seguir círculos conforme a necessidade. 
  
-### Pipeline
+# Pipeline
  
 * Tratamento dos dados.
 * Análise dos dados.
@@ -45,26 +42,35 @@ Pode ajudar a evitar que o cientista de dados pare em uma etapa específica e pe
 * Modelagem dos modelos de Machine Learning.
 * Ajuste dos hiperparâmetros.
 * Avaliação do melhor modelo. 
-* Deploy do modelo (Construção).
+* Deploy do modelo.
  
-### Aquisição dos dados.
+# Aquisição dos dados.
  
 Esse conjunto de dados foi originalmente usado em uma competição da Kaggle e foi fornecido com dados históricos de vendas de 1.115 lojas Rossmann. 
  
-### Descrição das partes do projeto
+# Descrição do projeto
+
+O Projeto foi desenvolvido em duas partes princiapais:
+
+* Parte 1: Encarrega de analisar os dados obtidos, encontrar o melhor modelo de machine learning para a solução do problema.
+* Parte 2: Deploy do melhor modelo econtrado e o seu teste. 
+
  
-Essa primeira parte do projeto está encarregada de tratar os dados, avaliá-los e criar o modelo de machine learning. Esse estudo foi dividido nas seguintes partes:
+### Parte 1.
+Essa parte do projeto foi realizada nas seguintes etapas :
 * Tratamento dos dados: Nesta parte foi realizado o tratamento dos dados faltantes, outliers e unir os conjuntos Train e Test.Também serão criadas algumas variáveis para dar suporte nas análises que serão feitas.
 * Descrição dos dados: É visto como as vendas se relacionam com o tempo e qual é a relação de cada variável com os dados de Target.
 * Parte 1 Modification dataset : Nesta parte será encontrado a melhor maneira de representar as variáveis discretas e selecionar as melhores variáveis para treinar o modelo.
 * Parte 2 Modification dataset : Continuação do notebook Parte 1 Modification dataset.
 * models: Tuning de divesos modelos de machine learning e a avaliação do melhor modelo para ser levado para deploy.
  
-**Todas essas partes se encontram na pasta chamada Notebooks**
-  
+**Cada etapa realizada possui um arquivo e cada um deles se encontram na pasta chamada Notebook**
  
-**A segunda parte do projeto é o deploy do modelo, só que ela está em construção.**
- 
+### Parte 2.
+
+O depploy do projeto foi realizado em diversas seçoes:
+
+* 
  
  
  
