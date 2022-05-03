@@ -93,6 +93,9 @@ Essas seções se encontram nos seguintes arquivo .py
     <img src="https://user-images.githubusercontent.com/28810281/166516530-45b9e2fe-222b-4162-b888-243ba75edf66.png" alt="vendas_mes" title="vendas_mes" width="830" height="430" />
 </p>
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/28810281/166594652-bea6dd16-e2c7-44c6-9f9c-6c33ce939535.png" alt="vendas_mes" title="vendas_mes" width="830" height="430" />
+</p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/28810281/166591315-6be8068d-2c24-4c1b-bf8a-1f3cfce1dcc0.png" alt="vendas_mes" title="vendas_mes" width="830" height="430" />
