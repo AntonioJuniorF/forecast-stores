@@ -93,6 +93,11 @@ Essas seções se encontram nos seguintes arquivo .py
     <img src="https://user-images.githubusercontent.com/28810281/166516530-45b9e2fe-222b-4162-b888-243ba75edf66.png" alt="vendas_mes" title="vendas_mes" width="830" height="430" />
 </p>
 
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/28810281/166591315-6be8068d-2c24-4c1b-bf8a-1f3cfce1dcc0.png" alt="vendas_mes" title="vendas_mes" width="830" height="430" />
+</p>
+
 Um outro fator que se destaca é que o tipo de promoção interfere diretamente nas vendas.
 
 E uma outra carateristica que influência nas vendas é a extrutura da sua loja como o seu assortment adotado e classificação que ela recebe.
