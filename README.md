@@ -87,12 +87,21 @@ Essas seções se encontram nos seguintes arquivo .py
 
 ### Análise de dados.
 
-* Os principais fatores que se destacaram nas analises de dados feitas foram que a venda é maior em determinado de dis especificos do mês conforme esta sendo mostrado na figura abaixo.
+* Os principais fatores que se destacaram nas analises de dados feitas foram que a venda é maior em determinado de dis especificos do mês. A maior venda acontece em dezembro, isso se deve por causa dos feriados.
 
 <p align="center">
-    <img src="![imagem](https://github.com/AntonioJuniorF/forecast-stores/issues/1#issue-1224425232)
-" alt="Kitten" title="A cute kitten" width="430" height="430" />
+    <img src="https://user-images.githubusercontent.com/28810281/166516530-45b9e2fe-222b-4162-b888-243ba75edf66.png" alt="vendas_mes" title="vendas_mes" width="830" height="430" />
 </p>
+
+Um outro fator que se destaca é que o tipo de promoção interfere diretamente nas vendas.
+
+E uma outra carateristica que influência nas vendas é a extrutura da sua loja como o seu assortment adotado e classificação que ela recebe.
+
+### Desepeho dos modelos.
+
+
+### Distribuição do erro por lojas.
+
 
  
  
