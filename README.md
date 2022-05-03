@@ -46,7 +46,7 @@ Pode ajudar a evitar que o cientista de dados pare em uma etapa específica e pe
  
 # Aquisição dos dados.
  
-Esse conjunto de dados foi originalmente usado em uma competição da Kaggle e foi fornecido com dados históricos de vendas de 1.115 lojas Rossmann. 
+Esse conjunto de dados foi retirado do Kaggle no seguinte link https://www.kaggle.com/c/rossmann-store-sales. E nele foi fornecido cos dados históricos de vendas de 1.115 lojas Rossmann. 
  
 # Descrição do projeto
 
@@ -84,6 +84,7 @@ Essas seções se encontram nos seguintes arquivo .py
 **Todos esses arquvios se encontram na pasta API, aqueles contem as classes para processar os dados estão no seguinte caminho \api\lojas.
 
 Por último o arquivo utilizado para testa o API desenvovivdo se encontra no notebook Teste API e que esta na pasta notebook.
+
  
  
  
