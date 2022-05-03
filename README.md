@@ -68,9 +68,22 @@ Essa parte do projeto foi realizada nas seguintes etapas :
  
 ### Parte 2.
 
-O depploy do projeto foi realizado em diversas seçoes:
+O deploy do projeto foi realizado basicamente em 3 seçõe:
+* Primeira seção: Criação de uma classe para processasr os dados que chegam no API.
+* Segunda seção: Testar a classe criada para processar os dados, e salvar o modelo criado em disco.
+* Terceira seção: Criação do API e de um notebook para testala.
 
-* 
+Essas seções se encontram nos seguintes arquivo .py
+
+* Store_v1 : Classe utilizada para processar os dados para treinar o modelo que foi levado em produção.
+* Store_v2 : Classe utilizada para processaros dados que chegam no API criado.
+* teste_v1 : Testar a classe criada no arquivo Store_v1
+* teste_v2 : Testar a classe criada no arquivo Store_2 e treinar e salvar em disco o modelo de machine learning que foi levado para produção.
+* model_api_store: API criado atravez do flask para realizar o deploy do modelo.
+
+**Todos esses arquvios se encontram na pasta API, aqueles contem as classes para processar os dados estão no seguinte caminho \api\lojas.
+
+Por último o arquivo utilizado para testa o API desenvovivdo se encontra no notebook Teste API e que esta na pasta notebook.
  
  
  
