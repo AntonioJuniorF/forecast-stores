@@ -87,7 +87,7 @@ Essas seções se encontram nos seguintes arquivo .py
 
 ### Análise de dados.
 
-* Os principais fatores que se destacaram nas analises de dados feitas foram que a venda é maior em determinado de dis especificos do mês. A maior venda acontece em dezembro, isso se deve por causa dos feriados.
+* Os principais fatores que se destacaram nas analises de dados feitas foram que a venda é maior em determinado de dis especificos do mês. A maior venda acontece em dezembro, isso se deve por causa dos feriados, conforme esta sendo mostrado nos graficos abaixo.
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/28810281/166516530-45b9e2fe-222b-4162-b888-243ba75edf66.png" alt="vendas_mes" title="vendas_mes" width="830" height="430" />
@@ -101,14 +101,24 @@ Essas seções se encontram nos seguintes arquivo .py
     <img src="https://user-images.githubusercontent.com/28810281/166591315-6be8068d-2c24-4c1b-bf8a-1f3cfce1dcc0.png" alt="vendas_mes" title="vendas_mes" width="830" height="430" />
 </p>
 
-Um outro fator que se destaca é que o tipo de promoção interfere diretamente nas vendas.
+Um outro fator que se destaca é que o tipo de promoção interfere diretamente nas vendas, segundo os valores medidos na tabela.
 
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/28810281/166600426-d1dba6a5-5d70-48bb-a63c-154dd9b38eb4.png" alt="vendas_mes" title="vendas_mes" width="180" height="180" />
 </p>
 
-E uma outra carateristica que influência nas vendas é a extrutura da sua loja como o seu assortment adotado e classificação que ela recebe.
+E uma outra carateristica que influência nas vendas é a extrutura da sua loja como o seu assortment adotado e classificação que ela recebe de acordo com as figuras mostradas abaixo. 
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/28810281/166604230-6a7aa343-1d40-4044-83c5-516a979d2ea7.png" alt="vendas_mes" title="vendas_mes" width="430" height="430" />
+     <img src="https://user-images.githubusercontent.com/28810281/166604232-0cdde400-9daf-4488-a3e8-c04d88c343a7.png" alt="vendas_mes" title="vendas_mes" width="430" height="430" />
+</p>
+
+
+
+
+
 
 ### Desepeho dos modelos.
 
