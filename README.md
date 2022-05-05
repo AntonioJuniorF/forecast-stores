@@ -115,15 +115,12 @@ E uma outra carateristica que influência nas vendas é a extrutura da sua loja 
      <img src="https://user-images.githubusercontent.com/28810281/166604232-0cdde400-9daf-4488-a3e8-c04d88c343a7.png" alt="vendas_mes" title="vendas_mes" width="430" height="430" />
 </p>
 
-
-
-
-
-
 ### Desepeho dos modelos.
 
+Entre os modelos testados aquele que aprensentou o menor erro pecentual foi o lightgbm, no caso o seu valor foi de  4.571 +/- 0.037 e um bias de 182.365 +- 4.435. Para ambas medidas o intervalode confiaça calculado foi de 99%.
+ 
 
-### Distribuição do erro por lojas.
+
 
 
  
